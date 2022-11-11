@@ -1,5 +1,3 @@
-;FINAL Ultimate 8087
-
 SECTION .data
 msg0: db "",0x0A
 len0: equ $-msg0
